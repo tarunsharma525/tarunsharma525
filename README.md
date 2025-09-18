@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋 Everyone!, I'm Tarun Sharma</h1>
 <h3 align="center">I'm a self motivated and ambitious B.C.A CSE student, Constantly honing my skills and seeking new opportunities to grow.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkc2006&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsharma525" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsharma525&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsharma525" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunsharma525" alt="tarunsharma525" /></a> </p>
 
