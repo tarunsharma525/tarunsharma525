@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**tarunsharma525/tarunsharma525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi👋 Everyone!, I'm Tarun Sharma</h1>
+<h3 align="center">I'm a self motivated and ambitious B.C.A CSE student, Constantly honing my skills and seeking new opportunities to grow.</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dkc2006&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsharma525" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunsharma525" alt="tarunsharma525" /></a> </p>
+
+- 😄Pronouns: **He/Him**
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👯 I’m looking to collaborate on **good resources on Java**
+
+- 💬 Ask me about **programming**
+
+- 📫 How to reach me **tarun32sharma@gmail.com**
+
+- 👨‍💻 All of my projects are available at [https://github.com/tarunsharma525](https://github.com/tarunsharma525)
+
+- ⚡ Fun fact **I failed many times, but I regenerate myself 🔥**
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tarunsharma525/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunsharma525" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Tarun_sharma12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Tarun_sharma12/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/tarunsharma525/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/tarunsharma525/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/tarunsharma525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tarunsharma525" height="30" width="40" /></a>
