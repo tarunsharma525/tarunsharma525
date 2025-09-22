@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi👋 Everyone!, I'm Tarun Sharma</h1>
-<h3 align="center">I'm a self motivated and ambitious B.C.A CSE student, Constantly honing my skills and seeking new opportunities to grow.</h3>
+<h3 align="center">I'm a Computer Science student passionate about Full-Stack Web Development and Java. I'm constantly building new projects and learning new technologies to solve real-world problems. Let's connect and build something great!"
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsharma525&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsharma525" /> </p>
 
@@ -10,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I’m looking to collaborate on **good resources on Java**
+- 👯 Actively seeking collaboration on open-source Java projects **good resources on Java**
 
 - 💬 Ask me about **programming**
 
@@ -18,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarunsharma525](https://github.com/tarunsharma525)
 
-- ⚡ Fun fact **I failed many times, but I regenerate myself 🔥**
+- ⚡ I enjoy finding creative solutions to complex coding challenges
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
